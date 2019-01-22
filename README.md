@@ -1,5 +1,8 @@
 # Kubernetis
 
+best practices
+https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-mapping-external-services
+
 
 CMD vs ENTRY point vs RUN 
 http://goinbigdata.com/docker-run-vs-cmd-vs-entrypoint/
