@@ -1,5 +1,7 @@
 # Kubernetis
 
+secret
+https://kubernetes.io/docs/tasks/inject-data-application/distribute-credentials-secure/
 
 install keless for windows
 helm install --name my-rel . --namespace kubeless incubator/kubeless
