@@ -1,5 +1,8 @@
 # Kubernetis
 
+Configure an Egress Gateway using istio
+https://istio.io/docs/examples/advanced-egress/egress-gateway/
+
 best practices
 https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-mapping-external-services
 
