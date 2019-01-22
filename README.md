@@ -1,5 +1,9 @@
 # Kubernetis
 
+
+CMD vs ENTRY point vs RUN 
+http://goinbigdata.com/docker-run-vs-cmd-vs-entrypoint/
+
 secret
 https://kubernetes.io/docs/tasks/inject-data-application/distribute-credentials-secure/
 
