@@ -6,6 +6,9 @@ https://www.katacoda.com/courses/kubernetes/launch-single-node-cluster
 Kubeadm
 https://www.katacoda.com/courses/kubernetes/getting-started-with-kubeadm
 <br>
+weave scope<br>
+https://www.katacoda.com/courses/kubernetes/installing-weave-scope-on-kubernetes<br>
+
 Helm
 https://www.katacoda.com/courses/kubernetes/helm-package-manager
 <br>
